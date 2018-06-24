@@ -1,0 +1,46 @@
+.titleText{
+    color:darkslategray;
+    text-align: center;
+}
+
+body{
+    background-image:url("../assets/images/background1.jpg");
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    height:auto;
+}
+html{
+    height:auto;
+}
+
+.trainSchedule{
+    background-color: lightgray;
+    margin-bottom: 75px;
+}
+
+.newTrainContainer{
+    background-color:lightgray;
+    padding: 10px;
+    border-color: darkgrey;
+    border-width: 3px;
+    border-style: outset;
+}
+
+.newTrainHeader{
+    background-color:darkgrey;
+    color:whitesmoke;
+    font-size:4px;;
+    padding-left:3px;
+}
+
+.timeBox{
+    text-align: center;
+    margin-top: 25px;
+}
+
+#trainInfo{
+    margin-top: 20px;
+    text-align:center;
+
+}
